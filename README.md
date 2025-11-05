@@ -1,4 +1,16 @@
-![Himani's GitHub stats](https://github-readme-stats.vercel.app/api?username=himaninihalani&show_icons=true&theme=tokyonight)
+
+
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=himaninihalani&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himaninihalani&layout=compact&theme=tokyonight" />
+</p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himaninihalani&layout=compact&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=himaninihalani&theme=tokyonight)](https://git.io/streak-stats)
+![Himani's GitHub stats](https://github-readme-stats.vercel.app/api?username=himaninihalani&show_icons=true&theme=dracula)
 
 
 <!--
