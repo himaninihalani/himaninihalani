@@ -1,8 +1,7 @@
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C6FF&width=600&lines=here's+everything+about+me)](https://git.io/typing-svg)
-  <br>
-  <img src="./pointing-down.gif" alt="cartoon pointing down" width="220" />
+  <img src="coding.gif" alt="coding" width="200" />
 </p>
+
 
 
 
