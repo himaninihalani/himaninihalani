@@ -13,7 +13,7 @@
   <br>
 
   <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himaninihalani&layout=compact&theme=tokyonight" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himaninihalani&layout=compact&theme=tokyonight&langs_count=8" alt="Most Used Languages" />
   <br>
 
   <!-- GitHub Streaks -->
