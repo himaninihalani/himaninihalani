@@ -3,9 +3,16 @@
 
 
 <p align="center">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=himaninihalani&show_icons=true&theme=tokyonight" alt="GitHub stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himaninihalani&layout=compact&theme=tokyonight" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himaninihalani&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <br>
+
+  <!-- GitHub Streaks -->
+  <img src="https://streak-stats.demolab.com?user=himaninihalani&theme=tokyonight" alt="GitHub Streaks" />
 </p>
 
 
