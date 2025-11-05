@@ -1,3 +1,9 @@
+<h1 align="center">Hi, I'm Himani 👋</h1>
+<h4 align="left">.💻CS student</h4>
+<h4 align="left">.🌱Currently learning Data Structures and Algorithms</h4>
+
+
+
 <p align="center">
   <img src="coding.gif" alt="coding" width="200" />
 </p>
@@ -9,15 +15,15 @@
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=himaninihalani&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=himaninihalani&show_icons=true&theme=synthwave" alt="GitHub stats" />
   <br>
 
   <!-- Top Languages -->
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himaninihalani&layout=compact&theme=tokyonight&langs_count=8" alt="Most Used Languages" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himaninihalani&layout=compact&theme=synthwave&langs_count=8" alt="Most Used Languages" />
   <br>
 
   <!-- GitHub Streaks -->
-  <img src="https://streak-stats.demolab.com?user=himaninihalani&theme=tokyonight" alt="GitHub Streaks" />
+  <img src="https://streak-stats.demolab.com?user=himaninihalani&theme=synthwave" alt="GitHub Streaks" />
 </p>
 
 
