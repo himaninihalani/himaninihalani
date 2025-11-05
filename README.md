@@ -8,7 +8,7 @@
   <br>
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himaninihalani&layout=compact&theme=tokyonight" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himaninihalani&repo=Project1,Project2,Project3&theme=tokyonight" />
   <br>
 
   <!-- GitHub Streaks -->
